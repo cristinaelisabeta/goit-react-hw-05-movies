@@ -1,0 +1,23 @@
+.form{
+    text-align: center;
+    margin-top: 50px;
+}
+.btn{
+    padding: 5px 10px;
+    font-size: 15px;
+    background-color: rgb(252, 246, 246);
+    border: 1px solid transparent;
+    border-radius: 10px;
+    margin-right: 10px;
+}
+.btn:hover{
+    background-color: rgb(241, 235, 235);
+    border: 1px solid blue;
+    color: blue;
+}
+.input{
+    width: 200px;
+    height: 25px;
+    outline: none;
+    font-size: 18px;
+}

@@ -1,0 +1,28 @@
+.btn {
+  display: block;
+  width: 45px;
+  padding: 2px 5px;
+  font-size: 20px;
+  background-color: rgb(247, 233, 233);
+  border-radius: 5px;
+  margin: 5px;
+  text-decoration: none;
+  color: blue;
+}
+.btn:hover {
+  background-color: black;
+  color: blue;
+}
+.div {
+  margin: 5px;
+}
+.li {
+  padding: 10px;
+  text-decoration: none;
+  color: blue;
+  font-weight: 700;
+}
+.li:hover {
+  color: blue;
+  text-decoration: underline;
+}
